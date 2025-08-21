@@ -1,11 +1,18 @@
 ## Hi there I'm Michael Stone👋
 -pronouns: he/him
+
 -I'm a student at Lane Tech College Prep High School, it's my senior year!
+
 -My hobbies are: Playing Video Games, Reading, watching tv shows and movies, and playing the drums.
+
 -My favorite color is blue
+
 -My favorite food is garlic bread
--How to reach me: Mstone3@cps.edu
+
 -Fun Fact: I have had ten fish and two snails as pets, one fish lived for nearly two years!
+
+-How to reach me: Mstone3@cps.edu
+
 -Thanks for reading!👋
 <!--
 **Michael-Stone77/Michael-Stone77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
